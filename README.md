@@ -1,3 +1,3 @@
 # Thinkpython
 Will Contain solved book with exercises by AllenDowney 
-Currently on chapter 3
+All the Python Programming practice
